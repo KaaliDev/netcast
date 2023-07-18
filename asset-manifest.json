@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/netcast/static/css/main.f278001b.css",
-    "main.js": "/netcast/static/js/main.40fa595c.js",
+    "main.css": "/netcast/static/css/main.7ea13848.css",
+    "main.js": "/netcast/static/js/main.89979b71.js",
     "static/media/company-img.jpg": "/netcast/static/media/company-img.20862459b082205bb71b.jpg",
     "static/media/blog6.jpg": "/netcast/static/media/blog6.328a789619df844c0325.jpg",
     "static/media/contact.png": "/netcast/static/media/contact.940fc81be77eadbc6db4.png",
@@ -34,11 +34,11 @@
     "static/media/footer.png": "/netcast/static/media/footer.9e954e2f4658d80371c5.png",
     "static/media/service1.png": "/netcast/static/media/service1.0301966b576d50040e6f.png",
     "index.html": "/netcast/index.html",
-    "main.f278001b.css.map": "/netcast/static/css/main.f278001b.css.map",
-    "main.40fa595c.js.map": "/netcast/static/js/main.40fa595c.js.map"
+    "main.7ea13848.css.map": "/netcast/static/css/main.7ea13848.css.map",
+    "main.89979b71.js.map": "/netcast/static/js/main.89979b71.js.map"
   },
   "entrypoints": [
-    "static/css/main.f278001b.css",
-    "static/js/main.40fa595c.js"
+    "static/css/main.7ea13848.css",
+    "static/js/main.89979b71.js"
   ]
 }
